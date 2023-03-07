@@ -1,0 +1,9 @@
+남은 주제들 (23목~28화)
+
+** Class (월)
+
+Promise ~ then  
+Aysnc ~ wait
+Fetch함수 (URL)
+
+배열 컨트롤하는 함수들
